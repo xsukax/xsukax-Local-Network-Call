@@ -2,6 +2,8 @@
 
 A privacy-focused, end-to-end encrypted WebRTC video calling application designed specifically for local networks, VPN environments, and private infrastructure. Built as a single PHP file with zero external dependencies, this application provides secure peer-to-peer video communication with AES-256 encrypted signaling and DTLS-SRTP media encryption.
 
+**Demo:** [https://xsukax.ct.ws/call](https://xsukax.ct.ws/call)
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![PHP Version](https://img.shields.io/badge/PHP-%3E%3D7.4-777BB4.svg)](https://www.php.net/)
 [![WebRTC](https://img.shields.io/badge/WebRTC-Enabled-green.svg)](https://webrtc.org/)
